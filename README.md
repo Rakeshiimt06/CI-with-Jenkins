@@ -2,3 +2,4 @@
 Test CI
 #hook
 #nexus
+#nexus1.0
